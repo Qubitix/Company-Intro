@@ -8,9 +8,9 @@
 
 📫 How to reach us: You can get in touch with us at info@qubitix.de. We’re always open to discussing potential collaborations, project ideas, and opportunities to work together.
 
-😄 Pronouns:We use 'we' and 'our' to represent our team. 
+😄 Pronouns: We use 'we' and 'our' to represent our team. 
 
-⚡ Fun fact:Our team is made up of technology enthusiasts who love solving complex problems with elegant solutions. We’re not just a company; we’re a group of tech lovers on a mission to make a difference.
+⚡ Fun fact: Our team is made up of technology enthusiasts who love solving complex problems with elegant solutions. We’re not just a company; we’re a group of tech lovers on a mission to make a difference.
 
 <!---
 Qubitix/Qubitix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
