@@ -4,7 +4,7 @@
 
 🌱 We are currently learning the latest advancements in full-stack development and emerging technologies to ensure we offer innovative and cutting-edge solutions. We’re committed to staying ahead of industry trends and continuously enhancing our skills.
 
-💞️ We are looking to collaborate on exciting and challenging projects that push the boundaries of technology. We are actively seeking motivated full-stack developers who are eager to grow with us and contribute to our mission of delivering exceptional IT solutions.
+💞️ We are looking to collaborate on exciting and challenging projects that push the boundaries of technology. 
 
 📫 How to reach us: You can get in touch with us at info@qubitix.de. We’re always open to discussing potential collaborations, project ideas, and opportunities to work together.
 
