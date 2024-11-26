@@ -2,7 +2,7 @@
 
 👀 We are interested in providing bespoke IT solutions for small and medium-sized businesses in Germany. We specialize in delivering tailored software and technology solutions that meet the unique needs of our clients.
 
-🌱 We are currently learning the latest advancements in full-stack development and emerging technologies to ensure we offer innovative and cutting-edge solutions. We’re committed to staying ahead of industry trends and continuously enhancing our skills.
+🌱 We are constantly exploring the latest advancements in chatbot development, both AI-powered and traditional, to offer innovative and cutting-edge solutions. Our focus is on integrating chatbots seamlessly into websites, enhancing user experiences and driving engagement. We’re committed to staying ahead of industry trends, ensuring that our chatbot solutions, whether powered by AI or not, deliver exceptional performance and value. Through continuous learning and skill enhancement, we ensure that our clients benefit from the most efficient and forward-thinking technologies available.
 
 💞️ We are looking to collaborate on exciting and challenging projects that push the boundaries of technology. 
 
